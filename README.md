@@ -68,11 +68,12 @@ Here is a selection of my rigorous coursework and independent research projects:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🧬 **[NeuroFormer-EEG-Decoding](https://github.com/Wolverine-07/NeuroFormer-EEG-Motor-Imagery-Decoding-using-Transformers)** | Research project applying Transformer architectures to decode EEG motor imagery data. | `Python`, `PyTorch` |
+| 🌐 **[SVP-Web-Platform](https://github.com/Wolverine-07/SVP-Web-Platform)** | A scalable web analytics platform utilizing modern frontend technologies. | `TypeScript`, `React`|
+| 📂 **[Distributed File System](https://github.com/Wolverine-07/Distributed-Concurrent-File-System)** | Low-level systems engineering project handling concurrent file operations across distributed nodes. | `C`, `Sockets` |
+| 📱 **[Posture Estimation System](https://github.com/Wolverine-07/Real-Time-Posture-Estimation-and-Correction-System)** | Real-time computer vision application for posture correction on mobile devices. | `Kotlin`, `CV` |
 | ⚙️ **[XV6-OS-Enhancements](https://github.com/Wolverine-07/XV6-Operating-System-Enhancements)** | Modified the academic xv6 OS kernel to implement custom scheduling algorithms and features. | `C`, `x86 Assembly` |
 | 🛡️ **[POSIX-Compliant Unix Shell](https://github.com/Wolverine-07/POSIX-Compliant-Unix-Shell)** | Built a custom Unix shell from scratch ensuring strict adherence to POSIX standards. | `C` |
-| 📂 **[Distributed File System](https://github.com/Wolverine-07/Distributed-Concurrent-File-System)** | Low-level systems engineering project handling concurrent file operations across distributed nodes. | `C`, `Sockets` |
-| 🌐 **[SVP-Web-Platform](https://github.com/Wolverine-07/SVP-Web-Platform)** | A scalable web analytics platform utilizing modern frontend technologies. | `TypeScript`, `React`|
-| 📱 **[Posture Estimation System](https://github.com/Wolverine-07/Real-Time-Posture-Estimation-and-Correction-System)** | Real-time computer vision application for posture correction on mobile devices. | `Kotlin`, `CV` |
+
 
 ---
 
