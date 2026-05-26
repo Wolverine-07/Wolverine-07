@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prashant Vinod 👋</h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="center">
-  Systems Programming • Distributed Systems • Deep Learning • Operating Systems
+  Deep Learning • Machine Learning & Transformers • Distributed Systems • Systems Programming • Operating Systems
 </p>
 <p align="center">📍 IIIT Hyderabad</p>
 
