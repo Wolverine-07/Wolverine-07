@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-vinod-689818312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&bypass_cache=1" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;v=2" alt="LinkedIn" />
   </a>
   <a href="mailto:prashantvinod07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;v=2" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/whateverittakes07_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;v=2" alt="Instagram" />
   </a>
 </p>
 
