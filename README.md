@@ -77,18 +77,22 @@ Here is a selection of my rigorous coursework and independent research projects:
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 Contribution Graph
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wolverine-07&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine-07&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wolverine-07&theme=github_dark" />
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Wolverine-07&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Wolverine-07&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
