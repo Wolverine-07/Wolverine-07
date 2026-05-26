@@ -8,17 +8,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prashant-vinod-689818312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;v=2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prashantvinod07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;v=2" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/whateverittakes07_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;v=2" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-vinod-689818312)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantvinod07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whateverittakes07_)
+
+</div>
 
 ---
 
