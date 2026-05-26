@@ -10,9 +10,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-vinod-689818312)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantvinod07@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whateverittakes07_)
+<a href="https://www.linkedin.com/in/prashant-vinod-689818312" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:prashantvinod07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/whateverittakes07_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -67,7 +73,18 @@ Here is a selection of my rigorous coursework and independent research projects:
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wolverine-07&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wolverine-07&layout=compact&theme=radical" height="150" alt="Top Languages" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wolverine-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Wolverine-07&theme=tokyonight&hide_border=true&background=00000000" />
+
 </div>
