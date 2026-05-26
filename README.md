@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-vinod-689818312">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="mailto:prashantvinod07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -72,6 +72,6 @@ Here is a selection of my rigorous coursework and independent research projects:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wolverine-07&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine-07&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wolverine-07&amp;show_icons=true&amp;theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine-07&amp;layout=compact&amp;theme=radical" height="150" alt="Top Languages" />
 </div>
